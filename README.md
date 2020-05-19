@@ -1,2 +1,3 @@
 # 360_view_Demo
-it only works on local server made using Three.js
+it only works on local server or else shows CORS error
+works using Three.js
